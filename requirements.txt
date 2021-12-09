@@ -34,7 +34,7 @@ click-didyoumean==0.0.3
 click-plugins==1.1.1
 click-repl==0.1.6
 cloudpickle==1.2.2
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.1
 comtypes==1.1.7
 conda==4.9.2
